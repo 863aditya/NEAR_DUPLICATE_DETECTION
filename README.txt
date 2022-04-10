@@ -1,5 +1,5 @@
 Hello
-I am Aditya Singh, here i created my first project of near duplicate detetction with the help of research paper.
+I am Aditya Singh, here i created my pilot project of near duplicate detetction with the help of research paper. 
 
 
 NDD_3 Credits:
